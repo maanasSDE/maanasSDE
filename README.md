@@ -4,7 +4,7 @@
   <br>
  </abc>
 </h2> 
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="left">A passionate full stack developer from India</h3>
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
